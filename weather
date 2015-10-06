@@ -1,0 +1,17 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+</head>
+
+<body>
+<iframe src=http://weather.china.com.cn/city/57494.html id=city_frame_weather height=215 width=312 scrolling=no marginheight=0 frameborder=0></iframe>
+<br /><br />
+<iframe name=city_frame_zx src=http://weather.china.com.cn/city/57494_zx.html width=243 height=116 border=0 frameborder=0 framespacing=0 marginheight=0 marginwidth=0 scrolling=no></iframe>
+
+<iframe id=weather_map src=http://weather.china.com.cn/city/s57494_24.html width=130 height=100 border=0 frameborder=0 framespacing=0 marginheight=0 marginwidth=0 scrolling=no></iframe><iframe id=weather_map_48 src=http://weather.china.com.cn/city/s57494_48.html width=130 height=100 border=0 frameborder=0 framespacing=0 marginheight=0 marginwidth=0 scrolling=no></iframe><iframe id=weather_map_72 src=http://weather.china.com.cn/city/s57494_72.html width=130 height=100 border=0 frameborder=0 framespacing=0 marginheight=0 marginwidth=0 scrolling=no></iframe><br /><br />
+
+
+</body>
+</html>
